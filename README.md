@@ -1,8 +1,8 @@
-**🧠 Fake Job Postings Detection – Machine Learning Practice Project**
+# **🧠 Fake Job Postings Detection – Machine Learning Practice Project**
 
 Developed a machine learning model to detect fraudulent job postings using Python. This practice project focuses on real-world fraud detection techniques through systematic data cleaning, feature engineering, and model comparison.
 
-🔎 Highlights
+### 🔎 Highlights
 
 Cleaned and prepared job posting data (handled missing values, categorical encoding, and feature scaling).
 
@@ -12,7 +12,7 @@ Trained and compared multiple classification models: Logistic Regression, Random
 
 Achieved 95%+ accuracy using ensemble methods.
 
-🛠 Tech Stack
+### 🛠 Tech Stack
 
 Python (Pandas, NumPy, Scikit-learn)
 
@@ -20,7 +20,7 @@ Visualization: Matplotlib, Seaborn
 
 Notebook: Jupyter / Google Colab
 
-📊 Key Insights
+### 📊 Key Insights
 
 Fraudulent postings often had incomplete descriptions and unrealistic salary offers.
 
@@ -28,10 +28,10 @@ Company profile and benefits sections strongly correlate with fraud probability.
 
 Ensemble models like Random Forest performed best on test data.
 
-📂 Dataset
+### 📂 Dataset
 Source: Kaggle – Fake Job Postings Dataset
 
-✅ Skills Demonstrated
+### ✅ Skills Demonstrated
 Data Cleaning • Feature Engineering • Model Evaluation • Fraud Detection • Classification
 
 ⚡ Part of my machine learning portfolio showcasing practical model-building and data preprocessing experience.
